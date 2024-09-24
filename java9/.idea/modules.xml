@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eidiko.helloworld/eidiko.helloworld.iml" filepath="$PROJECT_DIR$/eidiko.helloworld/eidiko.helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eidiko.welcome/eidiko.welcome.iml" filepath="$PROJECT_DIR$/eidiko.welcome/eidiko.welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9.iml" filepath="$PROJECT_DIR$/java9.iml" />
+    </modules>
+  </component>
+</project>
